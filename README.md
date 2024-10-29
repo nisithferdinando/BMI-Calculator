@@ -13,4 +13,6 @@ The **BMI Calculator** is a desktop application built using **C#** and **.NET** 
 - C#
 - .NET Framework
 - MySQL
-- Windows Forms (for the desktop application)![Uploading Screenshot 2024-10-29 233338.png…]()
+- Windows Forms (for the desktop application)
+
+![Screenshot 2024-10-29 233338](https://github.com/user-attachments/assets/071d8ea7-859d-4c07-9009-284a184d4ca2)
